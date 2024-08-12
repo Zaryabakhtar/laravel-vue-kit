@@ -1,0 +1,17 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\ZaRi\AppData\Roaming\npm\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.1
+2 info using node@v20.9.0
+3 silly config load:file:C:\Users\ZaRi\AppData\Roaming\npm\node_modules\npm\npmrc
+4 silly config load:file:C:\wamp64\www\tsdoman\.npmrc
+5 silly config load:file:C:\Users\ZaRi\.npmrc
+6 silly config load:file:C:\Users\ZaRi\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm
+8 verbose argv "--cache" "clear"
+9 verbose logfile logs-max:10 dir:C:\wamp64\www\tsdoman\clear\_logs\2024-08-12T09_19_30_890Z-
+10 verbose logfile C:\wamp64\www\tsdoman\clear\_logs\2024-08-12T09_19_30_890Z-debug-0.log
+11 verbose cwd C:\wamp64\www\tsdoman
+12 verbose os Windows_NT 10.0.19045
+13 verbose node v20.9.0
+14 verbose npm  v10.8.1
+15 verbose exit 1
+16 verbose code 1
